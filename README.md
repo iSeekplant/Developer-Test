@@ -38,6 +38,7 @@ Your code must be fully commented to explain what is happening.
 If you have time and are inspired to delve a little further into this, feel free to look at any of the below:
 * Expand the search window to capture the best rate over the next **60 days**.
 * We know that we want to stay for three nights at this hotel - update your code to calculate the best available rates for three consecutive nights.
+
 If you attempt any of these, make a note in your README file.
 
 ## Any questions?
