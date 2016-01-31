@@ -4,7 +4,7 @@
 
 The purpose of this test is to not only gauge the capabilities of potential applicants, but to also get an idea of their approach to development and problem-solving.
 
-To complete this test, clone (don't fork) the repository to your own public Git repo, complete the task, and then email the URL of your repo to matt@iseekplant.com.au.  Include any instructions of any necessary steps to get your code working in the README file (e.g. installing Composer dependencies).
+To complete this test, clone (don't fork) the repository to your own public Git repo, complete the task, and then email the URL of your repo to phil@iseekplant.com.au.  Include any instructions of any necessary steps to get your code working in the README file (e.g. installing Composer dependencies).
 
 Whilst there is no time limit, this test is not intended to take a long time to complete so use your judgement.
 
@@ -44,3 +44,5 @@ If you attempt any of these, make a note in your README file.
 ## Any questions?
 
 Create a new issue with your query and we will answer you as soon as possible.
+
+### Good luck!
