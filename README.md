@@ -27,7 +27,7 @@ Display the results in the web browser in an easy-to-read format - styling and l
 
 ## Restrictions
 
-Your solution **must** be written in PHP.  You may support whatever version(s) of PHP that you wish, but you must include details of those requirements in your README file.
+The backend component of your solution **must** be written in PHP.  You may support whatever version(s) of PHP that you wish, but you must include details of those requirements in your README file.
 
 You may use whatever tools and/or frameworks you wish to get the job done.
 
