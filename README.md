@@ -16,7 +16,7 @@ You are required to write the code necessary to query the API for [TheBookingBut
 
 The full documentation for TheBookingButton rates API can be found at https://help.thebookingbutton.com/hc/en-us/articles/203326314-TheBookingButton-Rates-API
 
-For the sake of this exercise use the channel code `bbdemo` when retrieving rates.  The region for this property is APAC.
+For the sake of this exercise use the channel code `camhotsyddirect` when retrieving rates.  The region for this property is APAC.  This is a real-life property so will have ever-changing rate and availability information.
 
 Your solution must:
 * Display the best **available** rate for each room type over the coming 21 days
