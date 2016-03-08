@@ -21,13 +21,13 @@ For the sake of this exercise use the channel code `camhotsyddirect` when retrie
 Your solution must:
 * Display the best **available** rate for each room type over the coming 21 days
 * Display when the above best rate is for
-* Display the **overall** best rate for the hotel - including date and room type
+* Display the **overall** best availale rate for the hotel - including the date and the room type
 
 Display the results in the web browser in an easy-to-read format - styling and layout is at your discretion.
 
 ## Restrictions
 
-The backend component of your solution **must** be written in PHP.  You may support whatever version(s) of PHP that you wish, but you must include details of those requirements in your README file.
+The backend business-logic component of your solution **must** be written in PHP.  You may support whatever version(s) of PHP that you wish, but you must include details of those requirements in your README file.
 
 You may use whatever tools and/or frameworks you wish to get the job done.
 
